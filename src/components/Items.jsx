@@ -1,5 +1,5 @@
-import SingleItem from "src/components/SingleItem.jsx";
-import "src/components/Items.css";
+import SingleItem from "./SingleItem";
+import "./Items.css";
 
 const Items = ({ items }) => {
   return (

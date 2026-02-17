@@ -1,6 +1,6 @@
-import Items from "src/components/Items.jsx";
-import { groceryItems } from "src/data/groceryItems.js";
-import "src/App.css";
+import Items from "./components/Items.jsx";
+import { groceryItems } from "./data/groceryItems";
+import "./App.css";
 
 const App = () => {
   return (
